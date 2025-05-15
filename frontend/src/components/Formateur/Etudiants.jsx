@@ -9,6 +9,8 @@ const Etudiants = () => {
     { id: 2, nom: 'Salma Bensalah', email: 'salma@example.com', progression: 72 },
     { id: 3, nom: 'Youssef El Idrissi', email: 'youssef@example.com', progression: 90 },
     { id: 4, nom: 'Fatima Zahra', email: 'fatima@example.com', progression: 65 },
+    { id: 4, nom: 'Fatima Zahra', email: 'fatima@example.com', progression: 65 },
+    { id: 5, nom: 'Omar El Amrani', email: 'Omar@example.com', progression: 50 }, 
   ];
 
   return (
