@@ -1,0 +1,50 @@
+
+  footer {
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    color: #ffffff;
+    font-size: 0.95rem;
+  }
+  
+  footer a {
+    color: #504f4f;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+    font-size: 1.1rem;
+  }
+  p{
+    color: #504f4f;
+    text-decoration: none;
+    font-size: 1.1rem;
+  }
+  h5{
+    color:rgb(30 64 175);
+  }
+  footer a:hover {
+    color:rgb(30 64 175);
+    text-decoration: underline;
+  }
+  
+  footer h5 {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+  footer p {
+    margin-bottom: 10px;
+  }
+  
+  hr {
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  @media (max-width: 767px) {
+    footer .text-md-left {
+      text-align: center !important;
+    }
+  
+    footer .row > div {
+      margin-bottom: 20px;
+    }
+  }
+  

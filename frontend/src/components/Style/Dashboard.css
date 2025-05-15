@@ -1,0 +1,8 @@
+.card-img-top {
+  height: 150px;
+  object-fit: cover;
+}
+
+.progress-bar {
+  background-color: #0d6efd;
+}
